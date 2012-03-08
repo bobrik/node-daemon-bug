@@ -1,0 +1,17 @@
+{
+  "name" : "node-daemon-bug",
+  "version" : "0.1",
+  "description" : "Bug in daemon.node",
+  "author": "Ian Babrou <ibobrik@gmail.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/bobrik/node-daemon-bug.git" 
+  },
+  "devDependencies": {
+    "daemon": ">= 0.4.1"
+  },
+  "main": "index.js",
+  "engines" : {
+     "node" : ">= 0.4.0"
+  }
+}
